@@ -8,14 +8,14 @@ FSK DDOS TOOL
 ```
 apt-get update -y
 apt-get install git
-git clone https://github.com/Red-company/RDDoS_Tool.git
+git clone https://github.com/
 cd RDDoS_Tool
 bash setup.sh
-python3 RDDoS_Tool.py
+python3 
 ```
 ## One line Installation:
 ```
-apt-get update -y && apt-get install git && git clone https://github.com/Red-company/RDDoS_Tool.git && cd RDDoS_Tool && bash setup.sh && python3 RDDoS_Tool.py
+apt-get update -y && apt-get install git && git clone https://github.com/.git && cd RDDoS_Tool && bash setup.sh && python3 
 ```
 ## Errors? Troubleshooting is here:
 If it's about libraries, just write these strings:
