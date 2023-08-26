@@ -1,7 +1,10 @@
 # FSK-DOS
-FSK DDOS TOOL
-
 # THIS TOOL IS PROTECT WITH PASSWORD!
+
+![dos1](https://github.com/Chrxstxqn/FSK-DOS/assets/137430908/3d1141cd-bd59-4d75-80bc-5372b7c007ff)
+![dos2](https://github.com/Chrxstxqn/FSK-DOS/assets/137430908/ad690451-f261-4b59-9abc-41f39e725197)
+
+
 
 
 ## Installing (_Windows/Linux/MacOs/Termux_):
