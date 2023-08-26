@@ -1,7 +1,7 @@
 # FSK-DOS
 FSK DDOS TOOL
 
-#THIS TOOL IS PROTECT WITH PASSWORD!
+# THIS TOOL IS PROTECT WITH PASSWORD!
 
 
 ## Installing (_Windows/Linux/MacOs/Termux_):
